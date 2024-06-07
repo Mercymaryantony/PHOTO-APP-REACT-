@@ -1,8 +1,10 @@
 import React from 'react'
+import Navbar from './Navbar'
 
 function Delete() {
   return (
     <div>
+        <Navbar/>
         <div className="container">
             <div className="row">
                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 colxl-12 col-xxl-12">
